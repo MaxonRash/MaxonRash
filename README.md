@@ -1,5 +1,5 @@
-# Hi, I'm Max 👋
-I'm developing apps using my beloved Java (Spring).
+## Hi, I'm Max 👋
+I am a software engineer with a passion for the Java ecosystem (Spring).
 ## Some of my interesting projects:
 *  [Twitch Bot](https://github.com/MaxonRash/SpringBootTwitchBot) - bot for [Twitch](https://twitch.tv) interacting with users via chat.
 *  [Prediction Client](https://github.com/MaxonRash/prediction_client_3) - a service for making auto predictions (bets) on [Twitch](https://twitch.tv) for HearthStone Game.
